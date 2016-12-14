@@ -15,9 +15,9 @@
 
 ## 用法:
 
-1. 安装scrapy框架：pip -i https://pypi.tuna.tsinghua.edu.cn/simple install scrapy
+1. 安装scrapy框架：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  scrapy
 
-2. 安装requests库: pip -i https://pypi.tuna.tsinghua.edu.cn/simple install requests
+2. 安装requests库: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  requests
 
 3. cd到项目根目录，然后:scrapy crawl crawlpicture
 
