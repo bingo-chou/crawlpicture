@@ -21,3 +21,4 @@
 
 3. cd到项目根目录，然后:scrapy crawl crawlpicture
 
+4. enjoy!
